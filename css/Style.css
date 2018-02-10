@@ -1,0 +1,63 @@
+body {
+    background-image: url(2.mpg); /* Цвет фона и путь к файлу */
+}
+
+h1 {
+	color: black;
+	font-style:italic;
+	font-family:"Times New Roman";
+	font-size:250%;
+	text-align: center;
+	}
+video
+{
+	height: 600px;
+	width: 700px;
+}	
+	
+#picture {
+	float:right;
+
+}
+#picture img{
+	width: 665px; 
+	height: 770px;
+} 
+#picture1 {
+	float:left;
+}
+	
+#text {
+	margin-right:400px;
+}
+	
+dt {
+	font-weight: 600;
+    font-family: "Times New Roman";
+	font-size:110%;
+	}
+	
+dd {
+    font-style: italic;
+	text-decoration: underline;
+	font-family:"Times New Roman";
+	font-size:100%;
+	}
+
+table { 
+    width: 50%;
+    border: 4px double black;
+    border-collapse: collapse;
+	}
+ 
+th { 
+    text-align: left;
+    background: #;
+    padding: 5px;
+    border: 1px solid black;
+   }
+ 
+td { 
+    padding: 5px;
+    border: 1px solid black;
+   }
